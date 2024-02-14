@@ -31,11 +31,13 @@
             ],
             "styles": [
               "@angular/material/prebuilt-themes/indigo-pink.css",
-              "src/styles.scss",
-              "node_modules/font-awesome/scss/font-awesome.scss",
-
+              "src/styles.scss"
             ],
-            "scripts": []
+            "scripts": [
+              "/src/assets/fontawesome/js/brands.js",
+              "/src/assets/fontawesome/js/solid.js",
+              "/src/assets/fontawesome/js/fontawesome.js"
+            ]
           },
           "configurations": {
             "production": {
