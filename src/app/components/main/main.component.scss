@@ -31,11 +31,12 @@
 }
 
 .user-thumbnail {
-    width: 45px;
-    height: 45px;
+    padding: 0.9375rem 1rem;
 }
 
-img {
+.user-thumbnail img {
+    width: 45px;
+    height: 45px;
     height: auto;
     max-width: 100%;
 }
